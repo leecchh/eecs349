@@ -1,1 +1,1 @@
-# eecs349
+# Deep Learning
